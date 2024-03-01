@@ -10,7 +10,7 @@ My push_swap can be seen with the push_swap visualizer :
 
 To get the program, you must do these commands :
 ```shell
-cd ft_printf
+cd pushswap
 make
 ```
 
