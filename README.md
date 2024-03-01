@@ -12,6 +12,9 @@ To get the program, you must do these commands :
 ```shell
 cd pushswap
 make
+
+# Program :
+./pushswap <integers>
 ```
 
 You also have these commands for cleaning the push_swap directory :
