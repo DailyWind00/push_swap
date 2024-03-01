@@ -8,7 +8,7 @@ I used the radix sort algorithm for this program
 My push_swap can be seen with the push_swap visualizer :
   - [Link to the push_swap visualizer github](https://github.com/o-reo/push_swap_visualizer)
 
-To get the program, you must do these commands :
+To use the program, you must do these commands :
 ```shell
 cd pushswap
 make
