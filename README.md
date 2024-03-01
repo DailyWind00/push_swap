@@ -14,7 +14,7 @@ cd pushswap
 make
 
 # Program :
-./pushswap <integers>
+./pushswap <INTEGERS>
 ```
 
 You also have these commands for cleaning the push_swap directory :
